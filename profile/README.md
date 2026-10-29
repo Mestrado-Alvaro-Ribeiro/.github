@@ -1,26 +1,27 @@
-## Sobre a Organização
+# Mestrado — Álvaro Ribeiro
 
-Esta organização centraliza os repositórios, materiais e recursos do meu mestrado, com foco em pesquisa aplicada, desenvolvimento computacional e produção científica.
+Esta organização reúne os códigos, experimentos, materiais de disciplinas e a produção científica do meu mestrado em Telecomunicações no Instituto Nacional de Telecomunicações (Inatel), com foco em Inteligência Artificial e Aprendizado de Máquina.
 
-O objetivo é reunir códigos, bases de dados e documentações do projeto em um único espaço, facilitando a organização, a evolução da pesquisa e o acompanhamento das atividades.
+## Pesquisa e produção científica
 
-## Repositórios
+| Repositório | Descrição |
+| --- | --- |
+| [`master-ceta`](https://github.com/Mestrado-Alvaro-Ribeiro/master-ceta) | Repositório principal da pesquisa de mestrado, com códigos, experimentos e análises em Python e Jupyter Notebook. |
+| [`master-article`](https://github.com/Mestrado-Alvaro-Ribeiro/master-article) | Arquivos LaTeX, figuras e referências do artigo científico desenvolvido no mestrado. |
 
-### `.github`
-Repositório responsável pela documentação e apresentação da organização no GitHub.
+## Disciplinas
 
-- **Finalidade:** identidade e documentação da organização  
-- **Repositório:** [`.github`](https://github.com/Mestrado-Alvaro-Ribeiro/.github)
+| Disciplina | Conteúdo | Repositório |
+| --- | --- | --- |
+| **TP546 — Internet das Coisas e Redes Veiculares** | Atividades, relatórios e projetos da disciplina. | [`alvaro-ribeiro-985-tp546`](https://github.com/Mestrado-Alvaro-Ribeiro/alvaro-ribeiro-985-tp546) |
+| **TP555 — Inteligência Artificial e Aprendizado de Máquina** | Exercícios, experimentos e implementações de IA e aprendizado de máquina. | [`alvaro-ribeiro-985-tp555`](https://github.com/Mestrado-Alvaro-Ribeiro/alvaro-ribeiro-985-tp555) |
+| **TP557 — Tópico Avançado em IoT e ML** | Exercícios em Python, notebooks e atividades de IoT e aprendizado de máquina. | [`alvaro-ribeiro-985-tp557`](https://github.com/Mestrado-Alvaro-Ribeiro/alvaro-ribeiro-985-tp557) |
+| **TP558 — Tópicos Avançados em Aprendizado de Máquina** | Atividades, experimentos e implementações de tópicos avançados de aprendizado de máquina. | [`alvaro-ribeiro-985-tp558`](https://github.com/Mestrado-Alvaro-Ribeiro/alvaro-ribeiro-985-tp558) |
 
-### `Master_CETA`
-Repositório principal do projeto de mestrado, reunindo códigos, experimentos e estudos desenvolvidos ao longo da pesquisa.
+## Dados da pesquisa
 
-- **Finalidade:** desenvolvimento do projeto de pesquisa  
-- **Tecnologias utilizadas:** Python, Jupyter Notebook e bibliotecas de IA/ML  
-- **Repositório:** [`Master_CETA`](https://github.com/Mestrado-Alvaro-Ribeiro/Master_CETA)
+O dataset utilizado no projeto está disponível no [Google Drive](https://drive.google.com/file/d/1vORcbCHglSW7xVMakZIZsmhe7jiPGX5z/view).
 
-## Dataset Utilizado
+## Sobre este perfil
 
-O dataset utilizado no projeto está disponível no link abaixo:
-
-- **Dataset:** [Acessar no Google Drive](https://drive.google.com/file/d/1vORcbCHglSW7xVMakZIZsmhe7jiPGX5z/view)
+O repositório [`.github`](https://github.com/Mestrado-Alvaro-Ribeiro/.github) contém o README de apresentação da organização.
